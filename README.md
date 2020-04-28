@@ -1,15 +1,14 @@
 # Trading Game: Millennium Capital
 Seminar Advanced Investments: Trading Game
 
-Authors:
-Zhaokun Guo: 477270 Wojciech Kita: 477885 Jakob Reithmann: 470455 Pim Somerwil: 388441 Willem Geul: 355354
-
 Trading Game
 
 Your Goal and Measurement
 
-You are a team of fund managers managing a fund with AUM of $1,000,000. Pick a name for your fund.  For inspirations, go to  http://www.hedgefundnamegenerator.com/.  You manage the portfolios for your clients over the next 6 week trading period. This period begins on Monday, 15 January 2018, and continues through to Friday, 23 February 2018.  You don`t need to liquidate your portfolio at the end of the trading game. 
+You are a team of fund managers managing a fund with AUM of $1,000,000. Pick a name for your fund.  For inspirations, go to  http://www.hedgefundnamegenerator.com/.  You manage the portfolios for your clients over the next 6 week trading period. This period begins on Monday, 15 January 2018, and continues through to Friday, 23 February 2018.  You don`t need to liquidate your portfolio at the end of the trading game.
+
 The clients of the fund have specified capital appreciation as the main investment objective and have no short-term cash needs. Your challenge will be to design and execute an investment strategy that satisfies the client over the 6 week investment period. Your grade for this project is based on both the performance of the portfolio and a report. Each team will be responsible for the following:
+
 •	Articulating the investment objective. Besides the performance investment objective, you can also target clients who have other specific requirements, e.g.  Socially responsible investment   
 •	Choosing the benchmark according to your investment objectives
 •	Formulating an appropriate investment strategy to meet the objectives
@@ -18,6 +17,7 @@ The clients of the fund have specified capital appreciation as the main investme
 •	 Track the daily performance of your portfolio and your benchmark index  
 •	Rebalancing the portfolio when necessary. 
 •	If you decide you want to change your strategy, you must justify your decisions
+
 Registration
 To register your account, go to   
 
@@ -64,13 +64,14 @@ The performance grade presents the financial compensation the fund managers woul
 
 
 Fees	Grades
-20,000 and  above 	10
-15,000-19,999	9
-12,000-14,999         	8
-10,000-11,999	7.5
-9,000   -9,999	6.5
-8,000-8,999	5.5
-Below 8,000	5 
+
+• 20,000 and  above 	10
+• 15,000-19,999	9
+• 12,000-14,999         	8
+• 10,000-11,999	7.5
+• 9,000   -9,999	6.5
+• 8,000-8,999	5.5
+• Below 8,000	5 
 
 
 2.	Report based grade
